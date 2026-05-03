@@ -50,5 +50,5 @@ IA aplicada al desarrollo: Claude · Gemini
 
 Disponible para proyectos nuevos · Respondo en menos de 24 horas
 
-Email: barrancosarzenicolas@gmail.com
+Email: nbarrancosarze@gmail.com
 WhatsApp: +591 63418018
