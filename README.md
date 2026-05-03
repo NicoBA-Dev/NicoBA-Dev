@@ -1,54 +1,51 @@
-# Nicolás Barrancos Arze — Full Stack Developer
+# Nicolas Barrancos Arze — Full Stack Developer
+> **Sistemas Web de Alto Impacto: Del Concepto a la Producción.**
 
-Construyo sistemas web completos para negocios reales: desde el diseño hasta el despliegue en producción. Trabajo con un enfoque de desarrollo asistido por IA que me permite entregar soluciones funcionales, escalables y personalizadas en menos tiempo y con menor costo para el cliente.
-
-Basado en Cochabamba, Bolivia · Disponible para proyectos remotos y locales
-
----
-
-## Lo que construyo
-
-- Sistemas de gestión empresarial (inventario, punto de venta, precotización, reportes)
-- Plataformas SaaS con autenticación, roles y dashboards
-- Sistemas de agendamiento online para negocios de servicios
-- Landing pages y sitios web corporativos conectados a backend real
-- Juegos web multijugador en tiempo real
+Desarrollador Full Stack especializado en construir soluciones web funcionales y escalables para negocios reales. Mi enfoque combina arquitectura modular limpia con el poder de la Inteligencia Artificial para optimizar tiempos de entrega y calidad del código.
 
 ---
 
-## Proyectos destacados
-
-**Sistema de gestión para ferretería** · Proyecto privado (cliente bajo contrato)
-Sistema completo con control de inventario, punto de venta, manejo de caja, categorías, marcas, sucursales y dashboard administrativo.
-Stack: React · Laravel · PostgreSQL · Tailwind
-
-**Sistema de agendamiento online** · [Ver demo barbería](https://demo-agendador.vercel.app/?demo=barberia) · [Ver demo spa](https://demo-agendador.vercel.app/?demo=spa) · [Ver demo dentista](https://demo-agendador.vercel.app/?demo=dentista)
-Plataforma de agendamiento personalizable por rubro con calendario interactivo, gestión de horarios y notificaciones.
-Stack: React · Supabase · Tailwind · Framer Motion
-
-**IAA S.A. · Importadora** · [Ver sitio](https://iaa-sa.vercel.app/)
-Sitio corporativo con sistema de precotización para importadora, en proceso de despliegue oficial.
-Stack: React · Tailwind
-
-**Dotscape** · [Jugar ahora](https://dotscape-1.onrender.com/)
-Juego multijugador en tiempo real inspirado en Agar.io, con personalización de skin, controles táctiles y sistema de división.
-Stack: JavaScript · Node.js · Socket.io
+## 📊 Mi Actividad en GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NicoBA-Dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoBA-Dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=NicoBA-Dev&theme=tokyonight&hide_border=true" width="100%" />
+</div>
 
 ---
 
-## Stack tecnológico
+## 🛠️ Lo que construyo
+Mi trabajo se rige por una regla estricta: **código modular y limpio** donde ningún archivo excede las 100 líneas, garantizando sistemas fáciles de mantener y escalar.
 
-Frontend: React · Tailwind CSS · Framer Motion
-Backend: Laravel · Node.js
-Bases de datos: PostgreSQL · MySQL · Supabase · MongoDB
-Herramientas: Git · Vercel · Render · Railway · Canva · Stitch
-IA aplicada al desarrollo: Claude · Gemini
+- **Sistemas de Gestión (ERP/SaaS):** Control total de inventarios, SKU automatizados, ventas y reportes administrativos.
+- **Agendamiento con IA:** Plataformas inteligentes que gestionan citas y horarios de forma autónoma para diversos rubros.
+- **Infraestructura Corporativa:** Despliegue de landing pages y sitios web conectados a backends robustos.
 
 ---
 
-## Contacto
+## 🚀 Proyectos Destacados
 
-Disponible para proyectos nuevos · Respondo en menos de 24 horas
+### 1. Sistema de Gestión "Ferretería ENGADY" 🏗️
+Es mi proyecto de mayor envergadura hasta la fecha. Un sistema integral para la administración de inventarios y puntos de venta.
+- **Funciones clave:** Automatización de SKUs, dashboards administrativos y gestión de sucursales.
+- **Stack:** React, Laravel, PostgreSQL, Tailwind CSS.
+- *Estado: Proyecto privado para cliente bajo contrato.*
+---
 
-Email: nbarrancosarze@gmail.com
-WhatsApp: +591 63418018
+## 💻 Stack Tecnológico
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![IA](https://img.shields.io/badge/AI_Driven_Development-000000?style=flat-square&logo=openai&logoColor=white)
+
+---
+
+## 📬 Contacto profesional
+Estoy abierto a nuevos proyectos freelance y colaboraciones en código abierto.
+
+- **Email:** nbarrancosarze@gmail.com
+- **WhatsApp:** [+591 63418018](https://wa.me/59163418018)
+- **Ubicación:** Cochabamba, Bolivia 🇧🇴
