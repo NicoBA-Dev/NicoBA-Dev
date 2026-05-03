@@ -6,13 +6,12 @@ Desarrollador Full Stack especializado en construir soluciones web funcionales y
 ---
 
 ## 📊 Mi Actividad en GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicoBA-Dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Estadísticas de NicoBA-Dev" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoBA-Dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Lenguajes de NicoBA-Dev" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NicoBA-Dev&theme=tokyonight&hide_border=true" width="100%" alt="Racha de contribuciones" />
-</p>
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=NicoBA-Dev&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoBA-Dev&layout=compact&theme=tokyonight&hide_border=true)
+
+![Racha de contribuciones](https://streak-stats.demolab.com/?user=NicoBA-Dev&theme=tokyonight&hide_border=true)
 
 ---
 
