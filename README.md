@@ -46,6 +46,6 @@ Es mi proyecto de mayor envergadura hasta la fecha. Un sistema integral para la 
 ## 📬 Contacto profesional
 Estoy abierto a nuevos proyectos freelance y colaboraciones en código abierto.
 
-- **Email:** nbarrancosarze@gmail.com
-- **WhatsApp:** [+591 63418018](https://wa.me/59163418018)
+- **Email:** nicolas.barrancos.a@gmail.com
+- **WhatsApp:** [+591 63418018](https://wa.me/59169636225)
 - **Ubicación:** Cochabamba, Bolivia 🇧🇴
